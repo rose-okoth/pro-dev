@@ -80,8 +80,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'xpensi',
-        'USER': 'oem',
-    'PASSWORD':'m3stravaill3s',
+        'USER': '<Your Database Username >',
+    'PASSWORD':'<Your Database Password>',
     }
 }
 
